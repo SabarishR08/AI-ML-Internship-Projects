@@ -51,20 +51,20 @@ Each project includes datasets and Jupyter Notebooks for training and testing ML
 
 AI-ML-Internship-Projects/  
 │── README.md                 # Project overview  
-│── requirements.txt           # Python dependencies  
+│── requirements.txt          # Python dependencies  
 │  
-├── Breast_Cancer_Detection/   # Breast cancer classification project  
-│   ├── data.csv  
-│   └── Breast_Cancer_Detection.ipynb  
+├── Breast_Cancer_Detection/ 
+│    ├── data.csv  
+│    └── Breast_Cancer_Detection.ipynb  
 │  
 ├── IPL_Winning_Team_Prediction/  
-│   ├── ipl_data.csv  
-│   └── IPL_Winning_Team_Prediction.ipynb  
+│    ├── ipl_data.csv  
+│    └── IPL_Winning_Team_Prediction.ipynb  
 │  
 ├── Car_Resale_Price_Prediction/  
-│   ├── car_data.csv  
-│   └── Car_Resale_Price_Prediction.ipynb  
+│    ├── car_data.csv  
+│    └── Car_Resale_Price_Prediction.ipynb  
 │  
 └── Diabetes_Prediction/  
-    ├── diabetes.xls  
-    └── Diabetes_Prediction.ipynb  
+     ├── diabetes.xls  
+     └── Diabetes_Prediction.ipynb  
