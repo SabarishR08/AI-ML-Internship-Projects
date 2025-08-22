@@ -47,7 +47,6 @@ Each project includes datasets and Jupyter Notebooks for training and testing ML
 ---
 
 ## 📂 Folder Structure
-📂 Folder Structure  
 
 AI-ML-Internship-Projects/  
 │── README.md                 # Project overview  
@@ -66,5 +65,6 @@ AI-ML-Internship-Projects/
 │    └── Car_Resale_Price_Prediction.ipynb  
 │  
 └── Diabetes_Prediction/  
-     ├── diabetes.xls  
-     └── Diabetes_Prediction.ipynb  
+│    ├── diabetes.xls  
+│    └── Diabetes_Prediction.ipynb  
+---
