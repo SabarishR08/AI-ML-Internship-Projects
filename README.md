@@ -67,4 +67,5 @@ AI-ML-Internship-Projects/
 └── Diabetes_Prediction/  
 │    ├── diabetes.xls  
 │    └── Diabetes_Prediction.ipynb  
+
 ---
